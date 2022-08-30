@@ -25,7 +25,7 @@ string encryptMessage(string msg)
 	
 	if (msg.length() % col)
 		row += 1;
-
+    //ydutd
 	char matrix[row][col];//MATRIX initiation 
 
 	for (int i=0,k=0; i < row; i++)
